@@ -1,0 +1,20 @@
+{
+  "name": "file_manager_js_lib",
+  "version": "1.0.0",
+  "description": "Simple lib on js for file managing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konstcos/FileManagerJsLib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/konstcos/FileManagerJsLib/issues"
+  },
+  "homepage": "https://github.com/konstcos/FileManagerJsLib#readme"
+}
